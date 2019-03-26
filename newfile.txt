@@ -1,0 +1,2 @@
+somewords >>./newfile.txt
+echo somewords
